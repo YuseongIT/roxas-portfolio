@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/roxas-portfolio/static/css/main.077e31d6.css",
-    "main.js": "/roxas-portfolio/static/js/main.f25beb2d.js",
+    "main.js": "/roxas-portfolio/static/js/main.c3f502c3.js",
     "index.html": "/roxas-portfolio/index.html",
     "main.077e31d6.css.map": "/roxas-portfolio/static/css/main.077e31d6.css.map",
-    "main.f25beb2d.js.map": "/roxas-portfolio/static/js/main.f25beb2d.js.map"
+    "main.c3f502c3.js.map": "/roxas-portfolio/static/js/main.c3f502c3.js.map"
   },
   "entrypoints": [
     "static/css/main.077e31d6.css",
-    "static/js/main.f25beb2d.js"
+    "static/js/main.c3f502c3.js"
   ]
 }
